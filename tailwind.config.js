@@ -11,6 +11,9 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      spacing:{
+        '30' : '23rem'
+      }
     },
   },
   plugins: [],
