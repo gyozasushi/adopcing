@@ -1,7 +1,7 @@
 export const navigations = [
     {
         label : "Home",
-        path : "/home"
+        path : "/"
     },
     {
         label : "Addopt",

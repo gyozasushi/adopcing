@@ -12,3 +12,18 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+@keyframes walk {
+  0% {
+    transform: translateY(-3px);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(-3px);
+  }
+}
+
+.animate-walk {
+  animation: walk 0.3s infinite;
+}

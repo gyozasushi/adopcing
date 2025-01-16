@@ -12,7 +12,7 @@ module.exports = {
         foreground: "var(--foreground)",
       },
       spacing:{
-        '30' : '23rem'
+        '30' : '20rem'
       }
     },
   },
