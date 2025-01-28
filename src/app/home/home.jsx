@@ -2,7 +2,6 @@
 import React, { useState,useRef } from "react";
 import Image from "next/image";
 import HeroImage from "@/assets/kucing.png";
-import Container from "../components/layout/container";
 import Sectionduwa from "./section2";
 
 export default function Home() {

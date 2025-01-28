@@ -12,13 +12,8 @@
   
 }
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-    
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
 }
